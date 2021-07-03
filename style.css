@@ -24,5 +24,11 @@ section {
     display: flex;
 }
 .button-link {
-    text-decoration: none;
+   text-decoration: none;
+   margin-top: 5px;
+   padding: 10px 40px;
+   background: linear-gradient(orange,tomato);
+   color: white;
+   width: 700;
+   border-radius: 5px;
 }
