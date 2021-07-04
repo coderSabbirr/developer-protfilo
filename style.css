@@ -67,3 +67,20 @@ h2{
     border-radius: 10px;
     box-shadow: 10px 10px 40px gray;
 }
+#full-stack-dev {
+
+    border-left: 7px solid;
+    border-image: linear-gradient( lightsalmon, tomato);
+    border-image-slice: 1;
+}
+#dev-sec {
+    border-left: 7px solid;
+    border-image: linear-gradient( blue, cyan);
+    border-image-slice: 1;
+}
+
+footer{
+    text-align: center;
+    margin-top: 200px;
+    margin-bottom: 50px;
+}
