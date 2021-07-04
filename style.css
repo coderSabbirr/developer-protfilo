@@ -24,7 +24,7 @@ h1 {
     font-size: 40px;
 }
 
-.faxible-container {
+.flex-container {
     display: flex;
 }
 .button-link {
@@ -45,4 +45,7 @@ h1 {
   background-image: url(image/dream-bg.png);
   background-repeat: no-repeat;
   background-position:right;
+}
+.experiences-sec {
+    padding-left: 10px;
 }
