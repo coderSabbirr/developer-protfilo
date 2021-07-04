@@ -24,7 +24,7 @@ h1 {
     font-size: 40px;
 }
 
-section {
+.faxible-container {
     display: flex;
 }
 .button-link {
